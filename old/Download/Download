@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { (function(){function e(a){this.t={};this.tick=function(a,c,b){this.t[a]=[void 0!=b?b:(new Date).getTime(),c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(d){}};this.tick("start",null,a)}var a,d;window.performance&&(d=(a=window.performance.timing)&&a.responseStart);var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",d),
+b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" href="/site/openbvesim/_/rsrc/1336790289596/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/site/openbvesim/_/rsrc/1336791134144/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(b){return document.getElementById(b)}window.byId=d;function g(b){return b.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(b,a,c){var e=new String(k++);b={eventName:b,handler:a,compId:c,key:e};h.push(b);return e};window.JOT_removeListenerByKey=function(b){for(var a=0;a<h.length;a++)if(h[a].key==b){h.splice(a,1);break}};window.JOT_removeAllListenersForName=function(b){for(var a=0;a<h.length;a++)h[a].eventName==b&&h.splice(a,1)};
+window.JOT_postEvent=function(b,a,c){var e={eventName:b,eventSrc:a||{},payload:c||{}};if(window.JOT_fullyLoaded)for(a=h.length,c=0;c<a&&c<h.length;c++){var f=h[c];f&&f.eventName==b&&(e.listenerCompId=f.compId||"",(f="function"==typeof f.handler?f.handler:window[f.handler])&&f(e))}else window.JOT_delayedEvents.push({eventName:b,eventSrc:a,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(b,a){var c=((new Date).getTime()-b)/6E4;if(1440<=c||0>c)return null;var e=0;60<=c&&(c/=60,e=2);2<=c&&e++;return a?window.JOT_siteRelTimeStrs[e].replace("__duration__",Math.floor(c)):window.JOT_userRelTimeStrs[e].replace("__duration__",Math.floor(c))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/site/openbvesim/Download","deleted":false,"title":"Download","dir":"ltr"}];
+  var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/75dc7c/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"enableAnalytics":true,"pageSharingId":"jotspot_page","enableUniversalAnalytics":false,"sharingPolicy":"OPENED","siteTitle":"The official openBVE Homepage","isStartPageEnabled":false,"adsensePublisherId":"ca-pub-1496389589829082","features":{"validateClientGvizDataSourceUrls":true,"contactStoreMigrationPollForGapi":true,"gapiLoaderUtil":true,"moreMobileStyleImprovements":true,"gadgetsInStratus":false,"accumulativeBubblePanelCreation":true,"fileCabinetScreenReaderFix":true,"freezeStartPageUpdates":false,"publicGadgetSearchInStratus":false,"pageDrafts":false,"mobileOrientationFix":true,"plusBadge":false,"pdfEmbedSupport":false,"jsClickFix":true},"isPublic":true,"isConsumer":true,"serverFlags":{"cajaBaseUrl":"//www.gstatic.com/caja","cajaDebugMode":false},"onepickBaseUrl":"https://docs.google.com","domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://www.google.com/accounts/AccountChooser?continue\u003dhttps://sites.google.com/site/openbvesim/Download\u0026service\u003djotspot","analyticsAccountId":"UA-32505002-1","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"https://gg.google.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["https://ssl.gstatic.com/sites/p/75dc7c/system/app/css/sitelayouteditor.css"],"text":["https://ssl.gstatic.com/sites/p/75dc7c/system/js/codemirror.js","https://ssl.gstatic.com/sites/p/75dc7c/system/app/css/codemirror_css.css","https://ssl.gstatic.com/sites/p/75dc7c/system/js/trog_edit__en.js","https://ssl.gstatic.com/sites/p/75dc7c/system/app/css/trogedit.css","/site/openbvesim/_/rsrc/1469400434000/system/app/css/editor.css","https://ssl.gstatic.com/sites/p/75dc7c/system/app/css/codeeditor.css","/site/openbvesim/_/rsrc/1469400434000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"defaultdomain","baseUri":"/site/openbvesim","name":"openbvesim","siteTemplateId":false,"siteNoticeRevision":2,"siteNoticeUrlAddress":null,"siteNoticeMessage":"COMING SOON: www.openBVE.info!","page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en","timeZone":"America/Los_Angeles","type":"text","title":"Download","locale":"en","wuid":"wuid:gx:1f7ab25fecc24872","revision":143,"path":"/Download","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"Download","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/site/openbvesim/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="google-site-verification" content="6rLNsVFGSO9013WfVmj2TW3vqugturKoifFoaKOF70E" />
+<meta name="title" content="Download - The official openBVE Homepage" />
+<meta itemprop="name" content="Download - The official openBVE Homepage" />
+<meta property="og:title" content="Download - The official openBVE Homepage" />
+<meta name="description" content="A community dedicated to hosting openBVE, an open-source, multi-platform train simulator for Microsoft Windows, OS X and Linux created by Michelle and odakyufan." />
+<meta itemprop="description" content="A community dedicated to hosting openBVE, an open-source, multi-platform train simulator for Microsoft Windows, OS X and Linux created by Michelle and odakyufan." />
+<meta id="meta-tag-description" property="og:description" content="A community dedicated to hosting openBVE, an open-source, multi-platform train simulator for Microsoft Windows, OS X and Linux created by Michelle and odakyufan." />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/75dc7c/system/app/themes/terrarock/standard-css-terrarock-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/site/openbvesim/_/rsrc/1469400434000/system/app/css/overlay.css?cb=terrarock31a900px150goog-ws-nav-noside-noheadnone30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/site/openbvesim/_/rsrc/1469400434000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/site/openbvesim/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>Download - The official openBVE Homepage</title>
+<meta itemprop="image" content="https://sites.google.com/site/openbvesim/_/rsrc/1454293427258/Download/11701168_886447551435692_789741404036290164_n.png" />
+<meta property="og:image" content="https://sites.google.com/site/openbvesim/_/rsrc/1454293427258/Download/11701168_886447551435692_789741404036290164_n.png" />
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+<div class="sites-header-nav"><ul class="sites-header-nav-container-boxes"><li class="unselected"><a class="sites-navigation-link unselected" href="/site/openbvesim/home">OpenBVE</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/openbvesim/links">Other OpenBVE Organizations</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/openbvesim/installUse">Install/Use</a></li><li class="current"><a class="sites-navigation-link current" href="/site/openbvesim/Download">Download</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/openbvesim/Roadmap">Roadmap</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/openbvesim/screenshots">Screenshots</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/openbvesim/development">Site News</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="http://wiki.bvestation.com/index.php?title=Main_Page">Make Add-ons</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/site/openbvesim/troubleshooting">Troubleshoot</a></li></ul><div style="clear: both;"></div></div>
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left" style="display: none; width: 150px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first parent " wuid="gx:3fa420ffb651f05f"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/openbvesim/home" jotId="wuid:gx:3fa420ffb651f05f" class="sites-navigation-link topLevel">OpenBVE</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/home/canada" jotId="wuid:gx:592a3006925ae736" class="sites-navigation-link">OpenBVE Canada</a></div></li></ul></li><li class="topLevel parent " wuid="gx:6ee669615a80083b"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/openbvesim/blank" jotId="wuid:gx:6ee669615a80083b" class="sites-navigation-link topLevel">blank</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/blank/mobiletext" jotId="wuid:gx:e52961547a42216" class="sites-navigation-link">MobileText</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/canada" jotId="wuid:gx:6ced187ea222aa5" class="sites-navigation-link topLevel">Canada</a></div></li><li class="topLevel parent " wuid="gx:1f7ab25fecc24872"><div class="current-bg" jotId="wuid:gx:1f7ab25fecc24872" dir="ltr" style="padding-left: 0px;"><div class="expander"></div>Download</div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/Download/linux" jotId="wuid:gx:241a703854dc7cda" class="sites-navigation-link">Download Linux Version</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/Download/mac" jotId="wuid:gx:7583524c02ecf2cf" class="sites-navigation-link">Download Mac Version</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/Download/win" jotId="wuid:gx:6547d759cbcbef89" class="sites-navigation-link">Download Windows Version</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/Download/running-openbve" jotId="wuid:gx:68fdf92195ecf050" class="sites-navigation-link">Running OpenBVE</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/Download/source-code" jotId="wuid:gx:6cccc5b5b732c522" class="sites-navigation-link">Source Code</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/roadmap" jotId="wuid:gx:61ea7e4051b1aa18" class="sites-navigation-link topLevel">Future</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/aprilfoolsday" jotId="wuid:gx:4f02b7eaf772a7ed" class="sites-navigation-link topLevel">HAPPY APRIL FOOLS DAY!</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/welcome" jotId="wuid:gx:795b7e03ac11c8c5" class="sites-navigation-link topLevel">Home</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/admin" jotId="wuid:gx:7309c6a00a650fc3" class="sites-navigation-link topLevel">How'd That Plan Turn Out For You Dummy?</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/installUse" jotId="wuid:gx:1218b84c9e393437" class="sites-navigation-link topLevel">Install/Use</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/international-content" jotId="wuid:gx:52cb7e6fddbfa023" class="sites-navigation-link topLevel">International Content</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/main" jotId="wuid:gx:7dc1871ac49e9b38" class="sites-navigation-link topLevel">main</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/makingallstops" jotId="wuid:gx:3079f0f4e22f8e76" class="sites-navigation-link topLevel">MakingAllStops</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/administration" jotId="wuid:gx:63267eb6213b83c2" class="sites-navigation-link topLevel">Nope, Not Here Neither!</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/html5" jotId="wuid:gx:74a2959b1acf765d" class="sites-navigation-link topLevel">OpenBVE for HTML5</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/links" jotId="wuid:gx:55c8e8320218aa81" class="sites-navigation-link topLevel">Other OpenBVE Organizations</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/Roadmap" jotId="wuid:gx:28cacf25e1f0ec2" class="sites-navigation-link topLevel">Roadmap</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/screenshots" jotId="wuid:gx:73d5c80f4768f4c8" class="sites-navigation-link topLevel">Screenshots</a></div></li><li class="topLevel parent " wuid="gx:57a995d14c966f11"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/openbvesim/development" jotId="wuid:gx:57a995d14c966f11" class="sites-navigation-link topLevel">Site News</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/betaupdateposted" jotId="wuid:gx:2d0cef7012e3befb" class="sites-navigation-link">BETA Update posted</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/gbmaps-anewtoolforbvecontentcreation" jotId="wuid:gx:ccaa8dec36e3ff" class="sites-navigation-link">GB Maps - a new tool for BVE Content creation</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/hellofuturethisisthefirstpostihopewedidntscrewup" jotId="wuid:gx:4b2141f124b64c3d" class="sites-navigation-link">Hello future, this is the first post. I hope we didn't screw up.</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/minorsiteupdates" jotId="wuid:gx:41f382e5a035bcc0" class="sites-navigation-link">Minor site updates</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/odakyufanreleasesopenbvev142" jotId="wuid:gx:1b0a94e863fff178" class="sites-navigation-link">Odakyufan Releases OpenBVE v1.4.2</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/openbve-thenextstep" jotId="wuid:gx:16eb18a5a915fdac" class="sites-navigation-link">OpenBVE - The next step</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/openbve142" jotId="wuid:gx:1de79a9b9c51eed3" class="sites-navigation-link">OpenBVE 1.4.2?</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/openbveandsourcecode" jotId="wuid:gx:3ede54d68db93f98" class="sites-navigation-link">OpenBVE and Source Code</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/openbveforhtml5released" jotId="wuid:gx:6b95f6f46cd74361" class="sites-navigation-link">openBVE for HTML5 released!</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/thedownloadsnewlook" jotId="wuid:gx:52d6656aba96a918" class="sites-navigation-link">The Downloads "New Look"</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/therevampedscreenshotsgallery-weneedyourhelp" jotId="wuid:gx:1c9e9a76d724eb62" class="sites-navigation-link">The Revamped Screenshots Gallery - We need your help!!</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/development/windows8compatibility" jotId="wuid:gx:54a3d5be03d39ba2" class="sites-navigation-link">Windows 8 Compatibility</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/unban" jotId="wuid:gx:9f165fab03ae8f" class="sites-navigation-link topLevel">Submit Your Unban Request</a></div></li><li class="topLevel parent " wuid="gx:693dd99c70504662"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/openbvesim/the-announcement-locker" jotId="wuid:gx:693dd99c70504662" class="sites-navigation-link topLevel">The Announcement Locker</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/the-announcement-locker/service-advisories" jotId="wuid:gx:54ec487819c22096" class="sites-navigation-link">Service Advisories</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/troubleshooting" jotId="wuid:gx:159a3c1fd72cde11" class="sites-navigation-link topLevel">Troubleshoot</a></div></li><li class="topLevel parent " wuid="gx:55a6c4fcf0c74095"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/openbvesim/using-openbve" jotId="wuid:gx:55a6c4fcf0c74095" class="sites-navigation-link topLevel">using-openbve</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/sourcecodeoverview" jotId="wuid:gx:3b74f66edc52c49d" class="sites-navigation-link">A quick overview of the source code</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/whatisdifficultyleval" jotId="wuid:gx:7f69e51a9086805c" class="sites-navigation-link">Arcade, Normal, and Expert Driving Modes</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/default-keyboard-controls" jotId="wuid:gx:1fce92226cfd8b20" class="sites-navigation-link">Default Keyboard Controls</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/hidden-features-and-options" jotId="wuid:gx:d69f8c6ad3db0df" class="sites-navigation-link">Hidden Features and Options</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/oorate" jotId="wuid:gx:1458e6dd4a3f563" class="sites-navigation-link">How to drive - A quick overview on controls, ATS/ATC, signals and signs</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/installing-fonts-for-east-asian-languages" jotId="wuid:gx:6fdffb855baa7bf0" class="sites-navigation-link">Installing Fonts for East Asian Languages</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/sound-configuration" jotId="wuid:gx:65b0034cba8a1d8c" class="sites-navigation-link">Sound Configuration</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/foldersroutetrain" jotId="wuid:gx:5628a7beefb1b6ae" class="sites-navigation-link">The folder structure for route and train addons</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/mainmenu" jotId="wuid:gx:30e35817cf224fd5" class="sites-navigation-link">The main menu - Selecting routes and trains, options and controls</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/the-scoring-system" jotId="wuid:gx:4ca802c6a57f74d7" class="sites-navigation-link">The Scoring System</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/IAmGetMadNow" jotId="wuid:gx:21b89925f3afba08" class="sites-navigation-link">Troubleshooting</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/openbvesim/using-openbve/BlackBox" jotId="wuid:gx:5f410cbdef07591e" class="sites-navigation-link">Working with the Black Box</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/world-transit-news" jotId="wuid:gx:48f98976a6f95a2f" class="sites-navigation-link topLevel">World Transit News</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/openbvesim/system/app/pages/sitemap/hierarchy" jotId="wuid:gx:5572d229d93e0d51" class="sites-navigation-link topLevel">Sitemap</a></div></li></ul></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_9933272772468626" class="sites-embed" role="complementary"><div class="sites-embed-content-notitle"><span jotId="content"><p><script type="text/javascript">
+<!--
+google_ad_client="pub-1496389589829082";
+google_ad_host="pub-6693688277674466";
+google_ad_width=120;
+google_ad_height=600;
+google_ad_format="120x600_as";
+google_ad_type="text_image";
+google_color_border="B5B5B5";
+google_color_bg="B5B5B5";
+google_color_link="000000";
+google_color_url="F3F2F2";
+google_color_text="B5B5B5";
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p></span></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="display: none;">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="display: none;" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">Download</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="text-align:center"><div style="display:block;text-align:center;margin-right:auto;margin-left:auto"></div><div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="https://sites.google.com/site/openbvesim/Download/11701168_886447551435692_789741404036290164_n.png?attredirects=0" imageanchor="1"><img border="0" src="https://sites.google.com/site/openbvesim/_/rsrc/1454293427258/Download/11701168_886447551435692_789741404036290164_n.png" /></a></div><br /></div><div style="display:block;text-align:center;margin-right:auto;margin-left:auto">The free, open source train simulator</div><br /></div><div><div style="text-align:center"><font color="#ffffff"><font face="sans-serif" style="text-align:left"><span style="font-size:12px;line-height:19px"><br /></span></font></font></div><div style="text-align:center"><div style="text-align:center"><font color="#ffffff" face="sans-serif"><span style="font-size:12px;line-height:19px"><table border="1" bordercolor="#888" cellspacing="0" style="text-align:center;border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px"><tbody><tr><td style="width:261px;height:121px"><div style="display:block;margin-right:auto;margin-left:auto;text-align:center"><div style="display:block;margin-right:auto;margin-left:auto;text-align:center"><a href="https://sites.google.com/site/openbvesim/Download/win"><img border="0" src="https://sites.google.com/site/openbvesim/_/rsrc/1435133469660/Download/439px-Microsoft_logo.svg.png" /></a></div><div style="display:block;margin-right:auto;margin-left:auto;text-align:center"><br /></div><div style="display:block;margin-right:auto;margin-left:auto;text-align:center"><font size="3"><a href="https://sites.google.com/site/openbvesim/Download/win">Microsoft Windows</a></font></div><div style="display:block;margin-right:auto;margin-left:auto;text-align:center"><font size="1">Windows 7 &amp; Later</font></div><div style="display:block;margin-right:auto;margin-left:auto;text-align:center"><font size="1">Not compatible with Windows RT!</font></div></div></td><td style="width:304px;height:121px"><a href="https://sites.google.com/site/openbvesim/Download/linux"><img border="0" src="https://sites.google.com/site/openbvesim/_/rsrc/1435133754936/Download/Linux_Logo.png" /> </a><br /><a href="https://sites.google.com/site/openbvesim/Download/linux" style="font-size:medium">Linux</a><br /><font size="1">Most Major Linux Distributions (Ubuntu, Fedora, Slackware, Etc.)<br />Not compatible with ARM-based systems</font></td><td style="width:276px;height:121px"><a href="https://sites.google.com/site/openbvesim/Download/mac"><img border="0" src="https://sites.google.com/site/openbvesim/_/rsrc/1435133754935/Download/128px-apple-logo.png" /> </a><br /><font size="3"><a href="https://sites.google.com/site/openbvesim/Download/mac">OS X</a><br /></font><font size="1">OS X 10.5.8 &amp; Later, Intel Macs<br />Not compatible with PowerPC Macs</font></td></tr></tbody></table></span></font></div></div><div style="text-align:center"><font color="#ffffff" face="sans-serif" style="font-size:12px;line-height:19px"><span style="border-collapse:collapse"><table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px"><tbody><tr><td style="width:392px;height:37px"><a href="http://adf.ly/D3Ii9" style="font-size:medium" rel="nofollow">Developer Tools</a><br /><font size="1">Object Viewer, Route Viewer, Train Editor &amp; Object Bender</font></td><td style="width:260px;height:37px"><a href="https://sites.google.com/site/openbvesim/Download/source-code" style="font-size:medium">Source Code</a><font size="3"> </font><br /><font size="1">The inner workings of openBVE is freely available</font></td><td style="width:189px;height:37px"> <span style="color:rgb(238,238,238);font-family:Helvetica,Arial,Verdana,sans-serif;line-height:16px"><span style="font-family:sans-serif;line-height:19px;color:rgb(255,255,255)"><font><font face="verdana,sans-serif"><a href="https://sites.google.com/site/openbvesim/international-content" style="text-decoration:underline;font-size:medium">Add-ons</a><br /><font size="1">Routes, Trains, Plug-ins, etc.</font></font></font></span></span></td></tr></tbody></table></span></font></div><div style="text-align:center"><font color="#ffffff"><br /></font></div></div><div style="text-align:center"><font color="#ffffff"><br /></font></div><div style="text-align:center"></div><div style="text-align:center"><font color="#ffffff"><br /></font></div></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div id="sites-attachments-container">
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://www.google.com/a/UniversalLogin?service=jotspot&amp;continue=https://sites.google.com/site/openbvesim/Download">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="/site/openbvesim/system/app/pages/recentChanges">Recent Site Activity</a><span aria-hidden="true">|</span><a class="sites-system-link" href="/site/openbvesim/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/75dc7c/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+      
+          sites.core.Analytics.createTracker();
+          sites.core.Analytics.trackPageview();
+        
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "Navigation", true);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('https://sites.google.com/site/openbvesim/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
