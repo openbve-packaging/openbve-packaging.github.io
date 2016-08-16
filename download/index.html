@@ -34,8 +34,8 @@
 	<h3><a data-toggle="collapse" href="#dw-windows"><img src="../img/windows.png" width=64"><br>Microsoft Windows</a></h3>
 		<div id="dw-windows" class="panel-collapse collapse">
 			<div class="panel-body">
-			<a href="https://sites.google.com/site/openbvesim/openbve_stable.zip">Download stable (7z)</a><br>
-			<a href="https://sites.google.com/site/openbvesim/openbve_dev_v1.4.3.1.7z">Download developer edition (7z)</a>
+			<a href="http://vps.bvecornwall.co.uk/OpenBVE/Stable/openBVE-1.5.0.5-setup.exe">Download stable (installer)</a><br>
+			<a href="http://vps.bvecornwall.co.uk/OpenBVE/Builds/">Download developer edition (tar.gz)</a>
 			</div>
 	</div>
 	<p>Windows 7 or Later Not compatible with Windows RT!</p>
@@ -51,7 +51,9 @@
 			<p>On debian, ubuntu and derivates, please use the package "openbve" from the repositorys. You can install via Softwarecenter or terminal. You can try using a ppa like <a href="https://launchpad.net/ubuntu/+source/openbve">this</a></p>
 			<p>On Archlinux and Manjaro,please install via pacman or octopi</p>
 			<p>For other distributions, look in their repositorys and software centers.</p>
-			<p>You can probably use the developer tools from windows in wine or mono.</p>
+			<h4>Manual install</h4>
+			<p>Download the latest version from <a href="http://vps.bvecornwall.co.uk/OpenBVE/Stable/openBVE-1.5.0.5.tar.gz">here (tar.gz).</a> Too run it, please install "libmono-2.0-1" and "libmono-system-reactive-windows-forms2.2-cil", then open a terminal in your downloaded and extracted OpenBVE folder, and type "mono OpenBve.exe".<p>
+			<p>You can use the developer tools from windows and run them in mono the same way as described for the manual install.</p>
 			</div>
 	</div>
 	<p>Most Major Linux Distributions (Ubuntu, Fedora, Slackware, Etc.) Not compatible with ARM-based systems">
@@ -64,10 +66,10 @@
 	<h3><a data-toggle="collapse" href="#dw-mac"><img src="../img/mac.png" width=64"><br>Mac</a></h3>
 	<div id="dw-mac" class="panel-collapse collapse">
 			<div class="panel-body">
-            <a href="https://sites.google.com/site/openbvesim/openbve_stable.zip">Download stable (7z)</a><br>
-			<a href="https://sites.google.com/site/openbvesim/openbve_dev_v1.4.3.1.7z">Download developer edition (7z)</a>
-			<p>Requirements:Required Dependencies: OpenAL, SDL (Copy the SDL.framework directory to /Library/Frameworks), Mono (If you are given any choice, make sure that System.Windows.Forms and libgdiplus are installed.) XQuartz (For Lion, Mountain Lion, Mavericks & Yosemite Systems)
-			<p>Because there isn't a real OpenBVE version for MacOS, you gave to run the Windows Version in Mono.<p>
+            		<a href="http://vps.bvecornwall.co.uk/OpenBVE/Stable/openBVE-1.5.0.5.tar.gz">Download stable (tar.gz)</a><br>
+			<a href="http://vps.bvecornwall.co.uk/OpenBVE/Builds/">Download developer edition (tar.gz)</a>
+			<p>Required Dependencies: OpenAL, SDL (Copy the SDL.framework directory to /Library/Frameworks), Mono (If you are given any choice, make sure that System.Windows.Forms and libgdiplus are installed.) XQuartz (For Lion, Mountain Lion, Mavericks & Yosemite Systems)
+			<p>Because there isn't a real OpenBVE version for MacOS, you gave to run the Windows Version in Mono like described for Linux<p>
 			<p>If you are having issues running the precompiled app, open terminal and do the following: 
 			<div class="well well-xs">
 			cd /path/where/openbve/is/installed<br>
