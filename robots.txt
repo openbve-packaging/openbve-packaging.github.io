@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /frames
+Allow: /extensions
+Allow: /download
+Disallow: /css
+Disallow: /old
+
+User-Agent: Googlebot-Image
+Allow: /img
